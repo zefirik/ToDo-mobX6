@@ -1,0 +1,20 @@
+.wrapper{
+    margin-top: 10px;
+    width: 30%;
+    border: 1px solid grey;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.complete span{
+    text-decoration:line-through;
+}
+
+li {
+    list-style: none;
+}
+
+.pinned {
+    background-color: rgb(167, 167, 167);
+}
